@@ -25,6 +25,10 @@ If you encounter the following error: `error: RPC failed; curl 92 HTTP/2 stream 
    git config --global http.postBuffer 524288000
    ```
 
+<p align="middle">
+    <img src="fig/INC.png"alt="imageaaaaaaaaaaaaaaaa">
+</p>
+
 ## 🚀Usage of DeepGaze IIE and MDS-ViTNet
 To perform inference with DeepGaze IIE and to train and perform inference with MDS-ViTNet, follow these steps:
 
