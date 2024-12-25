@@ -7,6 +7,8 @@ The winning solution of the ECCV 2024 AI for Visual Arts Saliency Estimation Cha
 ## 👀 Note:
 This project requires two different virtual environments. Please follow the instructions to ensure the code runs smoothly.
 
+--- 
+
 ### Clone Repo
 
    ```bash
