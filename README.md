@@ -26,7 +26,7 @@ If you encounter the following error: `error: RPC failed; curl 92 HTTP/2 stream 
    ```
 
 <p align="middle">
-    <img src="fig/INC.png"alt="imageaaaaaaaaaaaaaaaa">
+    <img src="fig/INC.png">
 </p>
 
 ## 🚀Usage of DeepGaze IIE and MDS-ViTNet
