@@ -1,9 +1,10 @@
 # AI4VA 2024
-# The winning proposal of the AI for Visual Arts Saliency Estimation Challenge 2024(AI4VA)
 # ADP-GFA: Artistic Detail Prediction Network Based on Global Feature Analysis
+## 📢 News：
 The winning solution of the ECCV 2024 AI for Visual Arts Saliency Estimation Challenge (AI4VA).
-
-## Note
+#### Author: Lin’nan Zhao, Xuqiang Cao, Mengjiao Wang, Puhua Chen, Kexin Zhang
+## Please share a <font color='orange'>STAR ⭐</font> if this project does help
+## 📢 Note:
 This project requires two different virtual environments. Please follow the instructions to ensure the code runs smoothly.
 
 ### Clone Repo
