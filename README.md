@@ -1,14 +1,20 @@
-# AI4VA 2024
+# ECCV Challenge - AI4VA 2024
 # ADP-GFA: Artistic Detail Prediction Network Based on Global Feature Analysis
+
+
 ## 📢 News：
+
 The winning solution of the ECCV 2024 AI for Visual Arts Saliency Estimation Challenge (AI4VA).
+<p align="middle">
+    <img src="fig/Installation.png">
+</p>
+
 #### Author: Lin’nan Zhao, Xuqiang Cao, Mengjiao Wang, Puhua Chen, Kexin Zhang
 
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
-### 👀 Note: This project requires two different virtual environments. Please follow the instructions to ensure the code runs smoothly.
-
 ## Installation
+### 👀 Note: This project requires two different virtual environments. Please follow the instructions to ensure the code runs smoothly.
 **Clone this repository.**
 
    ```bash
@@ -19,7 +25,7 @@ If you encounter the following error: `error: RPC failed; curl 92 HTTP/2 stream 
    git config --global http.postBuffer 524288000
    ```
 
-## Usage of DeepGaze IIE and MDS-ViTNet
+## 🚀Usage of DeepGaze IIE and MDS-ViTNet
 To perform inference with DeepGaze IIE and to train and perform inference with MDS-ViTNet, follow these steps:
 
 ### Setting Up Virtual Environment py38
@@ -105,7 +111,12 @@ python train.py --p 0.5 --path_to_save ./checkpoints
 - `--p`: This value determines the probability of data augmentation. Executing the command with the default value will produce the `best_model_200_2_0.5_1e-4_40.pth` file. To retrain and obtain the `best_model_200_2_0.6_1e-4_40.pth` file, simply set the value to 0.6.
 - `--path_to_save`: The path where you want to store the training weight files and the final best model weight file.
 
-## Usage of SUM
+
+<p align="middle">
+    <img src="fig/INC.png">
+</p>
+
+# 🛸Usage of SUM
 To train and perform inference with SUM, follow these steps:
 
 ### Setting Up Virtual Environment py310
