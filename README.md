@@ -3,13 +3,13 @@
 ## 📢 News：
 The winning solution of the ECCV 2024 AI for Visual Arts Saliency Estimation Challenge (AI4VA).
 #### Author: Lin’nan Zhao, Xuqiang Cao, Mengjiao Wang, Puhua Chen, Kexin Zhang
+
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
-## 👀 Note:
-This project requires two different virtual environments. Please follow the instructions to ensure the code runs smoothly.
 
---- 
+### 👀 Note: This project requires two different virtual environments. Please follow the instructions to ensure the code runs smoothly.
 
-### Clone Repo
+## Installation
+1. Clone this repository.
 
    ```bash
    git clone --depth 1 https://github.com/Eth138l/ADP-GFA.git
