@@ -116,9 +116,6 @@ python train.py --p 0.5 --path_to_save ./checkpoints
 - `--path_to_save`: The path where you want to store the training weight files and the final best model weight file.
 
 
-<p align="middle">
-    <img src="fig/INC.png">
-</p>
 
 # 🛸Usage of SUM
 To train and perform inference with SUM, follow these steps:
