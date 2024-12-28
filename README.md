@@ -9,7 +9,7 @@ The winning solution of the ECCV 2024 AI for Visual Arts Saliency Estimation Cha
     <img src="fig/Installation.png">
 </p>
 
-#### Author: Lin’nan Zhao, Xuqiang Cao, Mengjiao Wang, Puhua Chen, Kexin Zhang
+#### Author: Lin’nan Zhao, Xuqiang Cao, Mengjiao Wang, Puhua Chen, Kexin Zhang, Licheng Jiao
 
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
